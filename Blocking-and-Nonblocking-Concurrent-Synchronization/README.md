@@ -1,4 +1,4 @@
-# Concurrent Synchronization Algorithms in C++
+# Blocking-and-Nonblocking-Concurrent-Synchronization
 
 Implementation and empirical evaluation of concurrent synchronization primitives across the progress-guarantee spectrum — from **blocking mutual exclusion** (locks) to **non-blocking snapshot algorithms** (obstruction-free / wait-free) — implemented in C++ using `std::thread`, `std::atomic`, and `std::mutex`.
 
