@@ -13,7 +13,7 @@ The aim is to actually measure this, not just describe it: run real code with a 
 ## Structure
 
 ```
-Concurrent-Synchronization-Algorithms/
+Blocking-and-Nonblocking-Concurrent-Synchronization/
 ├── locking-algorithms/            Blocking mutual exclusion
 │   ├── Implementation/
 │   │   ├── filter_lock.cpp
