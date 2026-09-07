@@ -1,0 +1,20 @@
+The start time of execution is : 02:47:23:524
+1 CS Entry Request will be at 02:47:23:525 by thread 0
+1 CS Entry Request will be at 02:47:23:525 by thread 1
+1 CS Entry will be at 02:47:23:525 by thread 0
+1 CS exit Request will be at 02:47:23:525 by thread 0
+1 CS exit will be at 02:47:23:525 by thread 0
+1 CS Entry will be at 02:47:23:525 by thread 1
+1 CS exit Request will be at 02:47:23:525 by thread 1
+1 CS exit will be at 02:47:23:525 by thread 1
+2 CS Entry Request will be at 02:47:23:529 by thread 1
+2 CS Entry will be at 02:47:23:529 by thread 1
+2 CS exit Request will be at 02:47:23:529 by thread 1
+2 CS exit will be at 02:47:23:529 by thread 1
+2 CS Entry Request will be at 02:47:23:530 by thread 0
+2 CS Entry will be at 02:47:23:530 by thread 0
+2 CS exit Request will be at 02:47:23:530 by thread 0
+2 CS exit will be at 02:47:23:530 by thread 0
+The end time of execution is : 02:47:23:534
+Total execution time is : 9.76 milisec
+Throughput of Bakery Algorithm is : 0.409836

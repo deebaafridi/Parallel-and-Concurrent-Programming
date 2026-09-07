@@ -1,0 +1,20 @@
+The start time of execution is 02:47:23:098
+1 CS Entry Request will be at 02:47:23:099 by thread 0
+1 CS Entry Request will be at 02:47:23:099 by thread 1
+1 CS Entry will be at 02:47:23:099 by thread 0
+1 CS exit Request will be at 02:47:23:099 by thread 0
+1 CS exit will be at 02:47:23:099 by thread 0
+1 CS Entry will be at 02:47:23:099 by thread 1
+1 CS exit Request will be at 02:47:23:099 by thread 1
+1 CS exit will be at 02:47:23:099 by thread 1
+2 CS Entry Request will be at 02:47:23:104 by thread 0
+2 CS Entry will be at 02:47:23:104 by thread 0
+2 CS exit Request will be at 02:47:23:104 by thread 0
+2 CS exit will be at 02:47:23:104 by thread 0
+2 CS Entry Request will be at 02:47:23:104 by thread 1
+2 CS Entry will be at 02:47:23:104 by thread 1
+2 CS exit Request will be at 02:47:23:104 by thread 1
+2 CS exit will be at 02:47:23:104 by thread 1
+The end time of execution is 02:47:23:109
+Total execution time is : 11.159 milisec
+Throughput of Filter Algorithm is : 0.358455
